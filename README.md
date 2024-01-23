@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Navya Tyagi
+- Navya Tyagi
 
-- 📫 You can reach me at: tyagin.india@gmail.com
+- 📫 tyagin.india@gmail.com
 
 <!---
 Navya003/Navya003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
